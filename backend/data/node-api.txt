@@ -1,0 +1,7 @@
+Node.js API troubleshooting
+
+An Express API route should match the HTTP method and URL that the client sends. A handler must eventually send a response, such as res.json(), res.send(), or res.status().json().
+
+When an API does not respond, check the server logs, confirm that the request reaches the expected route, and verify that no code path leaves the request open. Add small logs around the handler while debugging.
+
+Keep route handlers focused. Move reusable work into functions and return errors through Express error-handling middleware instead of hiding them.

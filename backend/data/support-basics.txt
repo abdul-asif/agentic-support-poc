@@ -1,0 +1,7 @@
+Support problem solving
+
+A good technical answer starts by clarifying the goal, the expected behavior, and the actual behavior. Then reduce the problem to the smallest reproducible example.
+
+Use evidence to choose the next action: error messages, request payloads, server logs, and recent code changes are more useful than guesses. Test one change at a time so you know what fixed the problem.
+
+If the available notes do not contain an answer, say so clearly and ask for the missing context instead of inventing a confident answer.

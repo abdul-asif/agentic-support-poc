@@ -1,0 +1,7 @@
+React basics
+
+React components describe what the user interface should look like. When a component needs to remember a value, use state with the useState hook. Calling the state setter schedules a re-render with the new value.
+
+Keep state as close as possible to the components that use it. Pass data from a parent to a child with props. If two sibling components need the same value, move the state up to their closest shared parent.
+
+Use an effect when your component must synchronize with something outside React, such as a browser API, a timer, or a network connection. Do not use an effect for values that can be calculated during rendering.
