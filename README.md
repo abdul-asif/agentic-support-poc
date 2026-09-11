@@ -9,8 +9,6 @@ cd backend
 node src/index.js
 ```
 
-https://urldefense.com/v3/__https://e2.udemymail.com/ls/click?upn=u001.dhw-2FlmDGB7GQwiPngu3WCMldmWyL3yaPmTPjOyoiAYUncrZHyBlsu1JAQNveO5F1HFuidkD5q-2BUpXtExrHE9MmlgsadnviOfhPrAG2XoH1461E5b4bvLCtli0b9p36DDua4wXAxoWzXGQ4-2BsdAoSLFiF9ouLSepUrjKTtm749Ick-2BUkp8-2FTcUu2QRBZ-2BT7wvOvk45PBjchy1HWzYrcX8h9pB2J-2FzxQw6tIPNvT8w0y4Oh0ZsT6NOKY1tvi1dDpIA-2F2mdkDfQ17j8nnGU6lvcd5x4iMHWc0xaxDKLMghLvqo-3DT5hm_ekqpRGwpo12oxJd1uiPy5-2BQbmJVtJUDZQZfqit5h1i3hlWDEPx8bqQd2AUFrvx2MsI-2BS4UeLM3OQcIRm3lNveKGTI-2FfSf-2B62utb87YmNuKFaEIUOGaa7U3WhqFbUA-2BeWaKvZBdpbk87oddZGR2s0H7R4MnukL5YCwDIAatEQNQVi5KhTaeT-2FBns6ivmE2ExMzSS-2BwNfMnk5HFOam9OCQczCqabHio-2F7-2B2oynE2g7zGLxYHG0R0gnTY2-2Bsw9giCU4wYhYKN-2B3XySQkNfOsjhBxi1I03fZilaiMAt0JrPC69NFJh4phU8qTLtE-2BqFSUM6GemnyDaaryWHjzEGt4e1mvrzY87WSoJiYVI6JxzYBKCs-3D__;!!Ohsi6OQZ0tXpvXUpqw!mQcFGCky4YK4Atf-G6-9aX-MY22i82osHenVHUWEwOt6oql6qWy-nN9uFnE8e6HRfhhDm2N64Y7OvnCbMS8UQerZJw$
-
 ## Retrieval concepts
 
 - **Chunking:** each paragraph becomes a stable record such as `react-basics.txt#2`, so retrieval can cite a small, useful piece of a document.
